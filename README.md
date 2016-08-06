@@ -8,35 +8,19 @@ Results contains the test and returned images for the various pipelines. Results
 
 Some sample results from our deepFeats256 pipeline:
 
-![](DeepFeats256/0query_image.png)
-![](0return_image1.png)
-![](0return_image2.png)
-![](0return_image3.png)
-![](0return_image4.png)
-![](0return_image5.png)
+![](Results/DeepFeats256/0query_image.png)
+![](Results/DeepFeats256/0return_image1.png)
+![](Results/DeepFeats256/0return_image2.png)
+![](Results/DeepFeats256/0return_image3.png)
+![](Results/DeepFeats256/0return_image4.png)
+![](Results/DeepFeats256/0return_image5.png)
 
-![](1query_image.png)
-![](1return_image1.png)
-![](1return_image2.png)
-![](1return_image3.png)
-![](1return_image4.png)
-![](1return_image5.png)
-
-![](2query_image.png)
-![](2return_image1.png)
-![](2return_image2.png)
-![](2return_image3.png)
-![](2return_image4.png)
-![](2return_image5.png)
-
-![](3query_image.png)
-![](3return_image1.png)
-![](3return_image2.png)
-![](3return_image3.png)
-![](3return_image4.png)
-![](3return_image5.png)
-
-
+![](Results/DeepFeats256/1query_image.png)
+![](Results/DeepFeats256/1return_image1.png)
+![](Results/DeepFeats256/1return_image2.png)
+![](Results/DeepFeats256/1return_image3.png)
+![](Results/DeepFeats256/1return_image4.png)
+![](Results/DeepFeats256/1return_image5.png)
 
 ![](Pics/0.png)
 ![](Pics/4.png)
