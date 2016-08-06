@@ -29,6 +29,13 @@ Some sample results from our deepFeats256 pipeline:
 ![](Results/DeepFeats256/2return_image4.png)
 ![](Results/DeepFeats256/2return_image5.png)
 
+![](Results/DeepFeats256/3query_image.png)
+![](Results/DeepFeats256/3return_image1.png)
+![](Results/DeepFeats256/3return_image2.png)
+![](Results/DeepFeats256/3return_image3.png)
+![](Results/DeepFeats256/3return_image4.png)
+![](Results/DeepFeats256/3return_image5.png)
+
 and from our pixel space pipeline:
 
 ![](Results/Pixels/0query_image.png)
@@ -51,6 +58,13 @@ and from our pixel space pipeline:
 ![](Results/Pixels/2return_image3.png)
 ![](Results/Pixels/2return_image4.png)
 ![](Results/Pixels/2return_image5.png)
+
+![](Results/Pixels/3query_image.png)
+![](Results/Pixels/3return_image1.png)
+![](Results/Pixels/3return_image2.png)
+![](Results/Pixels/3return_image3.png)
+![](Results/Pixels/3return_image4.png)
+![](Results/Pixels/3return_image5.png)
 
 Date: Aug 4, 2016
 Author: Adam Lesnikowski
