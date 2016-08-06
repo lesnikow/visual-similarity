@@ -22,6 +22,22 @@ Some sample results from our deepFeats256 pipeline:
 ![](Results/DeepFeats256/1return_image4.png)
 ![](Results/DeepFeats256/1return_image5.png)
 
+and from our pixel space pipeline:
+
+![](Results/Pixels/0query_image.png)
+![](Results/Pixels/0return_image1.png)
+![](Results/Pixels/0return_image2.png)
+![](Results/Pixels/0return_image3.png)
+![](Results/Pixels/0return_image4.png)
+![](Results/Pixels/0return_image5.png)
+
+![](Results/Pixels/1query_image.png)
+![](Results/Pixels/1return_image1.png)
+![](Results/Pixels/1return_image2.png)
+![](Results/Pixels/1return_image3.png)
+![](Results/Pixels/1return_image4.png)
+![](Results/Pixels/1return_image5.png)
+
 ![](Pics/0.png)
 ![](Pics/4.png)
 ![](Pics/8.png)
