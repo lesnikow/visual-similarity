@@ -6,7 +6,7 @@ adamlesnikowski.com/allResults.tar
 
 
 
-Results from each individual pipeline can be found at:
+and results from each individual pipeline can be found at:
 
 adamlesnikowski.com/deepFeats16AllResults.tar.gz
 
