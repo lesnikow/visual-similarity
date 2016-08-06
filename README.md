@@ -43,7 +43,7 @@ Some sample results from our deepFeats256 pipeline:
 ![](Results/DeepFeats256/4return_image4.png)
 ![](Results/DeepFeats256/4return_image5.png)
 
-Versus our pixel space baseline pipeline:
+Versus our pixel space baseline search:
 
 ![](Results/Pixels/0query_image.png)
 ![](Results/Pixels/0return_image1.png)
