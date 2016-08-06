@@ -5,6 +5,7 @@ These folders contain sample results from each of our three different pipelines.
 adamlesnikowski.com/allResults.tar
 
 
+
 Results from each individual pipeline can be found at:
 
 adamlesnikowski.com/deepFeats16AllResults.tar.gz
