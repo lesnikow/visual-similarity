@@ -88,3 +88,9 @@ Date: Aug 4, 2016
 Author: Adam Lesnikowski
 Edited Aug 5, 2016
 
+### Further directions:
+
+* Compare results with a a normalized nearest neighbor approach, i.e. cosine similarity metric.
+* Plot on 2 dimensions using t-distributed stochastic neighbor embedding (t-sne) or similar dimension reduction technique. 
+
+
