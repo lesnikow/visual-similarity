@@ -46,7 +46,7 @@ Some sample results from our **deepFeats256** pipeline using 256 filters from a 
 ![](Results/DeepFeats256/4return_image4.png)
 ![](Results/DeepFeats256/4return_image5.png)
 
-#### **deepFeats256** pipeline with the **L1** metric for our nearest neighbors:
+**deepFeats256** pipeline with the **L1** metric for our nearest neighbors:
 
 ![](Results/DeepFeats256L1/0query_image.png)
 ![](Results/DeepFeats256L1/0return_image1.png)
