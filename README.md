@@ -46,7 +46,8 @@ Some sample results from our **deepFeats256** pipeline using 256 filters from a 
 ![](Results/DeepFeats256/4return_image4.png)
 ![](Results/DeepFeats256/4return_image5.png)
 
-**deepFeats256** pipeline with the **L1** metric for our nearest neighbors:
+### Other metrics
+**deepFeats256** pipeline with nearest neighbors according to the **L1** taxicab metric:
 
 ![](Results/DeepFeats256L1/0query_image.png)
 ![](Results/DeepFeats256L1/0return_image1.png)
@@ -68,6 +69,30 @@ Some sample results from our **deepFeats256** pipeline using 256 filters from a 
 ![](Results/DeepFeats256L1/2return_image3.png)
 ![](Results/DeepFeats256L1/2return_image4.png)
 ![](Results/DeepFeats256L1/2return_image5.png)
+
+**deepFeats256** pipeline with the Chebyshev **Linf** or maximum metric:
+
+![](Results/DeepFeats256LInf/0query_image.png)
+![](Results/DeepFeats256LInf/0return_image1.png)
+![](Results/DeepFeats256LInf/0return_image2.png)
+![](Results/DeepFeats256LInf/0return_image3.png)
+![](Results/DeepFeats256LInf/0return_image4.png)
+![](Results/DeepFeats256LInf/0return_image5.png)
+
+![](Results/DeepFeats256LInf/1query_image.png)
+![](Results/DeepFeats256LInf/1return_image1.png)
+![](Results/DeepFeats256LInf/1return_image2.png)
+![](Results/DeepFeats256LInf/1return_image3.png)
+![](Results/DeepFeats256LInf/1return_image4.png)
+![](Results/DeepFeats256LInf/1return_image5.png)
+
+![](Results/DeepFeats256LInf/2query_image.png)
+![](Results/DeepFeats256LInf/2return_image1.png)
+![](Results/DeepFeats256LInf/2return_image2.png)
+![](Results/DeepFeats256LInf/2return_image3.png)
+![](Results/DeepFeats256LInf/2return_image4.png)
+![](Results/DeepFeats256LInf/2return_image5.png)
+
 
 ### Pixel Space Baseline
 Versus our **pixel space baseline** search:
