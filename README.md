@@ -7,8 +7,6 @@ Results/ contains the test and returned images for the various pipelines, with s
 
 ## Results
 
-![](Results/DeepFeats256L1/0query_image.png)
-
 ### Neural Codes
 
 Some sample results from our **deepFeats256** pipeline using 256 filters from a deep neural network, **L2** metric:
