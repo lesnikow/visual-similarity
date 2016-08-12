@@ -46,7 +46,7 @@ Some sample results from our **deepFeats256** pipeline using 256 filters from a 
 ![](Results/DeepFeats256/4return_image4.png)
 ![](Results/DeepFeats256/4return_image5.png)
 
-### Other metrics
+### **L1** and **L_inf** metrics:
 **deepFeats256** pipeline with nearest neighbors according to the **L1** taxicab metric:
 
 ![](Results/DeepFeats256L1/0query_image.png)
