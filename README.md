@@ -9,7 +9,7 @@ Results/ contains the test and returned images for the various pipelines, with s
 
 ### Neural Codes
 
-Some sample results from our **deepFeats256** pipeline using 256 filters from a deep neural network, **L2** metric:
+Here are the first four queries and results from our **deepFeats256** pipeline using 256 filters from a deep neural network, **L2** metric:
 
 ![](Results/DeepFeats256/0query_image.png)
 ![](Results/DeepFeats256/0return_image1.png)
@@ -38,13 +38,6 @@ Some sample results from our **deepFeats256** pipeline using 256 filters from a 
 ![](Results/DeepFeats256/3return_image3.png)
 ![](Results/DeepFeats256/3return_image4.png)
 ![](Results/DeepFeats256/3return_image5.png)
-
-![](Results/DeepFeats256/4query_image.png)
-![](Results/DeepFeats256/4return_image1.png)
-![](Results/DeepFeats256/4return_image2.png)
-![](Results/DeepFeats256/4return_image3.png)
-![](Results/DeepFeats256/4return_image4.png)
-![](Results/DeepFeats256/4return_image5.png)
 
 ### **L1** and **Linf** metrics:
 **deepFeats256** pipeline with nearest neighbors according to the **L1** taxicab metric:
