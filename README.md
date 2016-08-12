@@ -9,7 +9,7 @@ Results/ contains the test and returned images for the various pipelines, with s
 
 ### Neural Codes
 
-Some sample results from our **deepFeats256** pipeline using 256 filters from a deep neural network:
+Some sample results from our **deepFeats256** pipeline using 256 filters from a deep neural network, **L2** metric:
 
 ![](Results/DeepFeats256/0query_image.png)
 ![](Results/DeepFeats256/0return_image1.png)
@@ -45,6 +45,29 @@ Some sample results from our **deepFeats256** pipeline using 256 filters from a 
 ![](Results/DeepFeats256/4return_image3.png)
 ![](Results/DeepFeats256/4return_image4.png)
 ![](Results/DeepFeats256/4return_image5.png)
+
+#### **deepFeats256** pipeline with the **L1** metric for our nearest neighbors:
+
+![](Results/DeepFeats256L1/0query_image.png)
+![](Results/DeepFeats256L1/0return_image1.png)
+![](Results/DeepFeats256L1/0return_image2.png)
+![](Results/DeepFeats256L1/0return_image3.png)
+![](Results/DeepFeats256L1/0return_image4.png)
+![](Results/DeepFeats256L1/0return_image5.png)
+
+![](Results/DeepFeats256L1/1query_image.png)
+![](Results/DeepFeats256L1/1return_image1.png)
+![](Results/DeepFeats256L1/1return_image2.png)
+![](Results/DeepFeats256L1/1return_image3.png)
+![](Results/DeepFeats256L1/1return_image4.png)
+![](Results/DeepFeats256L1/1return_image5.png)
+
+![](Results/DeepFeats256L1/2query_image.png)
+![](Results/DeepFeats256L1/2return_image1.png)
+![](Results/DeepFeats256L1/2return_image2.png)
+![](Results/DeepFeats256L1/2return_image3.png)
+![](Results/DeepFeats256L1/2return_image4.png)
+![](Results/DeepFeats256L1/2return_image5.png)
 
 ### Pixel Space Baseline
 Versus our **pixel space baseline** search:
