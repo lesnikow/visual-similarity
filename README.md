@@ -73,4 +73,4 @@ Versus our **pixel space baseline** search:
 
 Date: Aug 4, 2016
 Author: Adam Lesnikowski
-Edited Aug 5, 2016, Aug 12, 2016.
+Edited Aug 5, 2016, Aug 12, Aug 26 2016.
