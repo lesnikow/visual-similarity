@@ -6,39 +6,6 @@ This repo contains [our Jupyter notebook](Source/visualSimilarity.ipynb), which 
 
 ## Results
 
-### Neural Codes
-
-Here are the first four queries and results from our **deepFeats256** pipeline using 256 filters from a deep neural network, **L2** metric:
-
-![](Results/DeepFeats256/0query_image.png)
-![](Results/DeepFeats256/0return_image1.png)
-![](Results/DeepFeats256/0return_image2.png)
-![](Results/DeepFeats256/0return_image3.png)
-![](Results/DeepFeats256/0return_image4.png)
-![](Results/DeepFeats256/0return_image5.png)
-
-![](Results/DeepFeats256/1query_image.png)
-![](Results/DeepFeats256/1return_image1.png)
-![](Results/DeepFeats256/1return_image2.png)
-![](Results/DeepFeats256/1return_image3.png)
-![](Results/DeepFeats256/1return_image4.png)
-![](Results/DeepFeats256/1return_image5.png)
-
-![](Results/DeepFeats256/2query_image.png)
-![](Results/DeepFeats256/2return_image1.png)
-![](Results/DeepFeats256/2return_image2.png)
-![](Results/DeepFeats256/2return_image3.png)
-![](Results/DeepFeats256/2return_image4.png)
-![](Results/DeepFeats256/2return_image5.png)
-
-![](Results/DeepFeats256/3query_image.png)
-![](Results/DeepFeats256/3return_image1.png)
-![](Results/DeepFeats256/3return_image2.png)
-![](Results/DeepFeats256/3return_image3.png)
-![](Results/DeepFeats256/3return_image4.png)
-![](Results/DeepFeats256/3return_image5.png)
-
-
 ### Pixel Space Baseline
 Versus our **pixel space baseline** search:
 
@@ -70,7 +37,34 @@ Versus our **pixel space baseline** search:
 ![](Results/Pixels/3return_image4.png)
 ![](Results/Pixels/3return_image5.png)
 
+### Neural Codes
 
-Date: Aug 4, 2016
-Author: Adam Lesnikowski
-Edited Aug 5, 2016, Aug 12, Aug 26 2016.
+Here are the first four queries and results from our **deepFeats256** pipeline using 256 filters from a deep neural network, **L2** metric:
+
+![](Results/DeepFeats256/0query_image.png)
+![](Results/DeepFeats256/0return_image1.png)
+![](Results/DeepFeats256/0return_image2.png)
+![](Results/DeepFeats256/0return_image3.png)
+![](Results/DeepFeats256/0return_image4.png)
+![](Results/DeepFeats256/0return_image5.png)
+
+![](Results/DeepFeats256/1query_image.png)
+![](Results/DeepFeats256/1return_image1.png)
+![](Results/DeepFeats256/1return_image2.png)
+![](Results/DeepFeats256/1return_image3.png)
+![](Results/DeepFeats256/1return_image4.png)
+![](Results/DeepFeats256/1return_image5.png)
+
+![](Results/DeepFeats256/2query_image.png)
+![](Results/DeepFeats256/2return_image1.png)
+![](Results/DeepFeats256/2return_image2.png)
+![](Results/DeepFeats256/2return_image3.png)
+![](Results/DeepFeats256/2return_image4.png)
+![](Results/DeepFeats256/2return_image5.png)
+
+![](Results/DeepFeats256/3query_image.png)
+![](Results/DeepFeats256/3return_image1.png)
+![](Results/DeepFeats256/3return_image2.png)
+![](Results/DeepFeats256/3return_image3.png)
+![](Results/DeepFeats256/3return_image4.png)
+![](Results/DeepFeats256/3return_image5.png)
