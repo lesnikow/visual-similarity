@@ -2,12 +2,12 @@
 
 Finding visually similar images on a database of men's dress shirts.
 
-This repo contains [our Jupyter notebook](Source/visualSimilarity.ipynb), which uses a deep convolutional neural network to extract deep features from the query images, and a k-nearest neighbors classifier to find the most visually similar images to a given query. [Results/](Results/) contains the test and returned images for the various pipelines, with subfolders DeepFeats256/, DeepFeats16/ and Pixels/, which contain the results from the deep feature classifers with 256 filters, 16 filters and the classifer on pixel space respectively. Query image n is at nquery_image.png, with its top kth visually similar images at nreturn_imagek.png. For example 17query_image.png is the 17th query image, and the returned images are at 17return_image1.png, 17return_image2.png, and so on. 
+This repo contains [a Jupyter notebook](Source/visualSimilarity.ipynb), which uses a deep convolutional neural network to extract deep features from the query images, and a k-nearest neighbors classifier to find the most visually similar images to a given query. [Results/](Results/) contains the test and returned images for the various pipelines, with subfolders DeepFeats256/, DeepFeats16/ and Pixels/, which contain the results from the deep feature classifers with 256 filters, 16 filters and the classifer on pixel space respectively. Query image n is at nquery_image.png, with its top kth visually similar images at nreturn_imagek.png. For example 17query_image.png is the 17th query image, and the returned images are at 17return_image1.png, 17return_image2.png, and so on. 
 
 ## Results
 
 ### Pixel Space Baseline
-Versus our **pixel space baseline** search:
+Here's the **pixel space baseline** search:
 
 ![](Results/Pixels/0query_image.png)
 ![](Results/Pixels/0return_image1.png)
@@ -39,7 +39,7 @@ Versus our **pixel space baseline** search:
 
 ### Neural Codes
 
-Here are the first four queries and results from our **deepFeats256** pipeline using 256 filters from a deep neural network, **L2** metric:
+Here's the results from our **deepFeats256** pipeline using 256 filters from a deep neural network.
 
 ![](Results/DeepFeats256/0query_image.png)
 ![](Results/DeepFeats256/0return_image1.png)
