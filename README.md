@@ -6,38 +6,7 @@ This repo contains [a Jupyter notebook](Source/visualSimilarity.ipynb), which us
 
 ## Results
 
-### Pixel Space Baseline
-Here's the **pixel space baseline** search:
-
-![](Results/Pixels/0query_image.png)
-![](Results/Pixels/0return_image1.png)
-![](Results/Pixels/0return_image2.png)
-![](Results/Pixels/0return_image3.png)
-![](Results/Pixels/0return_image4.png)
-![](Results/Pixels/0return_image5.png)
-
-![](Results/Pixels/1query_image.png)
-![](Results/Pixels/1return_image1.png)
-![](Results/Pixels/1return_image2.png)
-![](Results/Pixels/1return_image3.png)
-![](Results/Pixels/1return_image4.png)
-![](Results/Pixels/1return_image5.png)
-
-![](Results/Pixels/2query_image.png)
-![](Results/Pixels/2return_image1.png)
-![](Results/Pixels/2return_image2.png)
-![](Results/Pixels/2return_image3.png)
-![](Results/Pixels/2return_image4.png)
-![](Results/Pixels/2return_image5.png)
-
-![](Results/Pixels/3query_image.png)
-![](Results/Pixels/3return_image1.png)
-![](Results/Pixels/3return_image2.png)
-![](Results/Pixels/3return_image3.png)
-![](Results/Pixels/3return_image4.png)
-![](Results/Pixels/3return_image5.png)
-
-### Neural Codes
+### Deep Features
 
 Here's the results from our **deepFeats256** pipeline using 256 filters from a deep neural network.
 
@@ -68,3 +37,35 @@ Here's the results from our **deepFeats256** pipeline using 256 filters from a d
 ![](Results/DeepFeats256/3return_image3.png)
 ![](Results/DeepFeats256/3return_image4.png)
 ![](Results/DeepFeats256/3return_image5.png)
+
+
+### Pixel Space Baseline
+Here's the **pixel space baseline** search:
+
+![](Results/Pixels/0query_image.png)
+![](Results/Pixels/0return_image1.png)
+![](Results/Pixels/0return_image2.png)
+![](Results/Pixels/0return_image3.png)
+![](Results/Pixels/0return_image4.png)
+![](Results/Pixels/0return_image5.png)
+
+![](Results/Pixels/1query_image.png)
+![](Results/Pixels/1return_image1.png)
+![](Results/Pixels/1return_image2.png)
+![](Results/Pixels/1return_image3.png)
+![](Results/Pixels/1return_image4.png)
+![](Results/Pixels/1return_image5.png)
+
+![](Results/Pixels/2query_image.png)
+![](Results/Pixels/2return_image1.png)
+![](Results/Pixels/2return_image2.png)
+![](Results/Pixels/2return_image3.png)
+![](Results/Pixels/2return_image4.png)
+![](Results/Pixels/2return_image5.png)
+
+![](Results/Pixels/3query_image.png)
+![](Results/Pixels/3return_image1.png)
+![](Results/Pixels/3return_image2.png)
+![](Results/Pixels/3return_image3.png)
+![](Results/Pixels/3return_image4.png)
+![](Results/Pixels/3return_image5.png)
